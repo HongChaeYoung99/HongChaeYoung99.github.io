@@ -12,4 +12,7 @@ mysql -uadmin -p < sakila-schema.sql<br>
 mysql -uadmin -p < sakila-data.sql<br>
 라는 명령어를 입력하면 된다는 것을 알았다.
 </p>
+  
+<h3>참고한 자료</h3>
+<p><a href = "https://www.fun-coding.org/mysql_pratices5.html">Sakila 데이터베이스로 익히는 MySQL 연습 실제</a></p>
 </html>
